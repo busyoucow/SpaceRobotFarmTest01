@@ -47,10 +47,30 @@ copyright: reserved
 
 # さぁ起動…？
 
-したいところだが、展示会に持参してオープンフォース総統のロボット基板に使ったACアダプター(12V)を回収し忘れたため送って貰ったのだが ~~郵政省の陰謀~~ 日本郵便の運用により当方へ投かんされず原稿執筆に間に合わなかった 国内物流の危機を感じる
+したいところだが、展示会に持参してオープンフォース総統のロボット基板に使ったACアダプター(12V)を回収し忘れたため送って貰った 
 
-今後起動した際は記事にできることを願う。
+しかし ~~郵政省の陰謀~~ 日本郵便の運用判断により当方へ投かんされず保管され欲しい時に間に合わなかった 国内物流の危機を感じる
+
+## 必要な備品が到着し起動試験…
+
+写真には栽培用ボトルが写っているが今回は使用せず
+
+右側の空ペットボトルへと別のボトルから給水できるか起動試験を行った
+
 <img alt="picture 4" src="images/a26e3fd0f8f8454bc80c32bfc851676e41543d406a0ebbdc5af6be72c933962f.jpg" width="200" />  
+
+<img alt="picture 5" src="images/dbe8c18fa7561fb8c7b8076b42f049ab6c0c54974f67232e677809dbad68aa70.jpg" width="200" />  
+
+
+
+# 水漏れとの闘い
+<img alt="picture 6" src="images/99c223117bc7f58d4e10167f0c99b6dce0d26bf0aa58597cafcbb1ec5acbc0e3.jpg" width="200" />  
+
+<img alt="picture 7" src="images/20527677bd92f0a2c9ce1a89f11c532902ba757c061bf02b5813fd934c7517cf.jpg" width="200" />  
+
+<img alt="picture 8" src="images/58735a308d1779df13bc5f29e6930fcc1c7b07acfaa19f2c76cb6332fcf4c1e4.jpg" width="200" />  
+
+<img alt="picture 9" src="images/6d0d2ad6789999f5dc455fc8e6934113adc9a11590b013b12caa65e45372be62.jpg" width="200" />  
 
 
 # 終わりに
