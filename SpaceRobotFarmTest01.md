@@ -100,7 +100,7 @@ copyright: reserved
 <img alt="picture 9" src="images/6d0d2ad6789999f5dc455fc8e6934113adc9a11590b013b12caa65e45372be62.jpg" width="200" />  
 
 
-<img alt="picture 17" src="images/d8b69ffcde2b8668bee225b32f0f817c420e07fe3f6cf16d9425aa0d96f05b91.png" width="200" />  
+<img alt="picture 18" src="images/d3aa2c159e5e8c164b13895fc5a2995c7b7be35df9713005102488a84600f6a4.jpg" width="200" />  
 
 
 ポンプは写真下側の管より吸う。 そして上側の管から吐き出すのだが、
